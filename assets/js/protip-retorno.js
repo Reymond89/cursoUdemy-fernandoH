@@ -47,3 +47,4 @@ imprimePropiedades(tony);
 
 // const imprimeTodo = Object.values(tony);
 // console.log({imprimeTodo});
+
